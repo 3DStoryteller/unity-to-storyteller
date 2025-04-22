@@ -1,0 +1,15 @@
+{
+  "name": "com.storytellerstudio.export-tools",
+  "version": "1.0.0",
+  "displayName": "3DStoryteller Asset Exporter",
+  "description": "Required scripts and tools to export assets for Storyteller Studio",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.shadergraph": "17.0.4",
+    "com.unity.postprocessing": "3.4.0"
+  },
+  "author": {
+    "name": "Quest Labs",
+    "url": "https://www.3dstoryteller.studio/"
+  }
+}
