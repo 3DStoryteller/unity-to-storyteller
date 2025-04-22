@@ -1,0 +1,17 @@
+# Ignore user/editor settings
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+.DS_Store
+Thumbs.db
+
+# Ignore Unity’s script debug files
+*.pidb
+*.suo
+
+# Ignore temp/test
+Temp/
+obj/
+TestResults/
