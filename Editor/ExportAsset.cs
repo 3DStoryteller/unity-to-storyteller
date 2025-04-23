@@ -31,6 +31,10 @@ namespace StorytellerStudio.Editor
         (
             "Packages/com.storytellerstudio.export-tools/Prefabs/Storyteller Studio.prefab",
             "Assets/3DStoryteller/Prefabs/Storyteller Studio.prefab"
+        ),
+        (
+            "Packages/com.storytellerstudio.export-tools/README.md",
+            "Assets/3DStoryteller/README.md"
         )
     };
 
