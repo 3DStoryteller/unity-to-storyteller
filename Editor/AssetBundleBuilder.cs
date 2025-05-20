@@ -19,7 +19,9 @@ namespace StorytellerStudio
             {
                 new MyBuildTarget { name = "mac", buildTarget = BuildTarget.StandaloneOSX },
                 new MyBuildTarget { name = "ios", buildTarget = BuildTarget.iOS },
-                new MyBuildTarget { name = "android", buildTarget = BuildTarget.Android }
+                new MyBuildTarget { name = "android", buildTarget = BuildTarget.Android },
+                new MyBuildTarget { name = "windows", buildTarget = BuildTarget.StandaloneWindows64 },
+                new MyBuildTarget { name = "webgl", buildTarget = BuildTarget.WebGL }
             };
             
             AssetBundleBuild build = new AssetBundleBuild
